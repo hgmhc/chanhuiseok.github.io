@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: http://chanhuiseok.github.io/sitemap.xml
