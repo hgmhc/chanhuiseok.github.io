@@ -7,33 +7,33 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
-title: ChanBLOG                        # the main title
+title: 한글 문해 블로그                        # the main title
 
-tagline: 컴퓨터/IT/알고리즘 정리 블로그  # it will display as the sub-title
+tagline: 수학, 과학, 정보 과학을 다룹니다  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  컴퓨터/IT/알고리즘 정리 블로그
+  수학, 과학, 정보 과학을 다룹니다(description)
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'https://chanhuiseok.github.io'
+url: 'https://hgmhc.github.io'
 
-author: ChanhuiSeok                # change to your full name
+author: DohoonKim                # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: ChanhuiSeok             # change to your github username
+  username: hgmhc             # change to your github username
 
 twitter:
   username:             # change to your twitter username
 
 social:
-  name: ChanhuiSeok                  # it will shows as the copyright owner in Footer
-  email: chanhuicom@gmail.com             # change to your email address
+  name: DohoonKim                  # it will shows as the copyright owner in Footer
+  email: dohoon@kakao.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/chanhuiseok       # change to your github homepage
+    - https://github.com/hgmhc       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
