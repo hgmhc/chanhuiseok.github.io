@@ -19,13 +19,9 @@ github:
 
 social:
   name: 김도훈                  # it will shows as the copyright owner in Footer
-  email: dohoon@kakao.com             # change to your email address
+  email: dohoon@kakao.com
   links:
-    # The first element serves as the copyright owner's link
-    - https://github.com/hgmhc       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/hgmhc
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -46,7 +42,7 @@ google_analytics:
   proxy_baseurl: ''
   proxy_url: ''
 
-theme_mode: default
+theme_mode: light
 
 disqus:
   comments: true
