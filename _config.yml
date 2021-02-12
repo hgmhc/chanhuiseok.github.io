@@ -1,6 +1,6 @@
 title: 한글 문해 블로그
 
-tagline: 수학, 과학, 정보 과학을 다룹니다
+tagline: 수학, 과학, 정보의 향연
 
 description: >-                        # used by seo meta and the atom feed
   BOJ, CSES, CSA, UVa, PE 등 여러 저지의 문제들을 풉니다.
@@ -46,6 +46,7 @@ google_analytics:
   proxy_baseurl: ''
   proxy_url: ''
 
+theme_mode:   # [light|dark]
 
 disqus:
   comments: true
