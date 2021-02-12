@@ -46,7 +46,7 @@ google_analytics:
   proxy_baseurl: ''
   proxy_url: ''
 
-theme_mode:   # [light|dark]
+theme_mode: [light|dark]
 
 disqus:
   comments: true
