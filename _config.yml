@@ -12,10 +12,13 @@ title: 한글 문해 블로그                        # the main title
 tagline: 수학, 과학, 정보 과학을 다룹니다  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  수학, 과학, 정보 과학을 다룹니다(description)
+  BOJ, CSES, CSA, UVa, PE 등 여러 저지의 문제들을 풉니다.
+  수학은 재밌어보이면 다 써볼 겁니다.
+  과학은 생물 싫고, 물리랑 지학이 좋아요.
+  교육적인 목적이나 지식 공유의 목적으로 쓰는 글들은 선을 긋습니다.
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'https://hgmhc3.github.io'
+url: 'https://hgmhc.github.io'
 
 author: DohoonKim                # change to your full name
 
