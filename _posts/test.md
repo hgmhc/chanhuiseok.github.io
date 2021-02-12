@@ -1,11 +1,8 @@
 ---
 title: testpost
 date: 2021-02-12 10:32:30
-categories: [study, BOJ]
+categories: [1.study, BOJ]
 tags: [math]
----
----
-math: true
 ---
 
 # Title
