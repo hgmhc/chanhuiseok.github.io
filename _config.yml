@@ -1,6 +1,6 @@
-title: 한글 문해 블로그                        # the main title
+title: 한글 문해 블로그
 
-tagline: 수학, 과학, 정보 과학을 다룹니다  # it will display as the sub-title
+tagline: 수학, 과학, 정보 과학을 다룹니다
 
 description: >-                        # used by seo meta and the atom feed
   BOJ, CSES, CSA, UVa, PE 등 여러 저지의 문제들을 풉니다.
@@ -8,18 +8,17 @@ description: >-                        # used by seo meta and the atom feed
   과학은 생물 싫고, 물리랑 지학이 좋아요.
   교육적인 목적이나 지식 공유의 목적으로 쓰는 글들은 선을 긋습니다.
 
-# Replace with your domain, e.g. 'https://username.github.io'
 url: 'https://hgmhc.github.io'
 
-author: DohoonKim                # change to your full name
+author: Dohoon Kim
 
-avatar: /assets/img/sample/hgmhc's illogical blog.jpg   # support internet resources
+avatar: /assets/img/sample/hgmhc's illogical blog.jpg
 
 github:
-  username: hgmhc             # change to your github username
+  username: hgmhc
 
 social:
-  name: DohoonKim                  # it will shows as the copyright owner in Footer
+  name: 김도훈                  # it will shows as the copyright owner in Footer
   email: dohoon@kakao.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
