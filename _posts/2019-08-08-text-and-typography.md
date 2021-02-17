@@ -4,10 +4,12 @@ author: Cotes Chung
 date: 2019-08-08 11:33:00 +0800
 categories: [1.study, BOJ]
 tags: [typography]
-math: true
 mermaid: true
 image:
   src: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png
+---
+---
+math: true
 ---
 
 This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
